@@ -1,6 +1,6 @@
 {
   "name": "enable-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns on async/await on Node.js 7",
   "main": "index.js",
   "keywords": [
@@ -8,5 +8,9 @@
     "await"
   ],
   "author": "Ron Korving <rkorving@wizcorp.jp>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wizcorp/enable-async"
+  },
   "license": "MIT"
 }
